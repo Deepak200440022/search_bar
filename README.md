@@ -21,7 +21,7 @@ The animation includes swipe effects, dynamic placeholder behavior, and smooth t
 
 ## Screenshot
 
-![Screenshot](assets/2025-07-03-175503_hyprshot.png)
+![Screenshot](sample.png)
 
 ## Usage
 
